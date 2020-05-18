@@ -6,7 +6,7 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let maxQuestions = 5;
+let maxQuestions = 3;
 
 let availableQuestions = [];
 
